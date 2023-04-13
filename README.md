@@ -13,5 +13,5 @@ Get stackoverflow's fanatic badge automatically
 8. Profit! :chart_with_upwards_trend:
 
 ## Notes
-browserless.io has a free tier for 1000 sessions (just 1 current per time), they should be more than enough to get the 100 required consecutives logins.
+browserless.io has a free tier for 1000 monthly sessions (just 1 current per time), it should be more than enough to get the 100 required consecutives logins.
 If you don't have a linux machine online and you don't want to spend money for this, check out https://www.pythonanywhere.com. There's a free tier to run 1 python script and they have selenium library available, it should work for this use case.
